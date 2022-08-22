@@ -1,34 +1,18 @@
 [[Exodus]]
 arch = "aarch64"
-git-tree-sha1 = "a99c1a35aef5ac4e94eab900524fa5767aa45a80"
-os = "macos"
-
-    [[Exodus.download]]
-    sha256 = "f0f490e3a499b0ee8a8bdf8b67bbb28b7a6c4f605c260a9dc94ee0dbed332a21"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v0.1.0+0/Exodus.v0.1.0.aarch64-apple-darwin.tar.gz"
-[[Exodus]]
-arch = "aarch64"
-git-tree-sha1 = "fa426aa97124dea27da2e0824ecab586020b9a3f"
+git-tree-sha1 = "640d1aac9fd96b4d7583875e40af1c8acfb86a10"
 libc = "glibc"
 os = "linux"
 
     [[Exodus.download]]
-    sha256 = "93b45e7ac04025483e61df671e504a7b28c8cfb2b543fcef30bb07b5cdbd7c3d"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v0.1.0+0/Exodus.v0.1.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "69e6aea4552c5f2993a5db0221aa7c09700a6d7c3043de1f096d4d4d4b0c3af8"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v0.1.1+0/Exodus.v0.1.1.aarch64-linux-gnu.tar.gz"
 [[Exodus]]
 arch = "x86_64"
-git-tree-sha1 = "beebcf2ff969e2cb5c3c57a0d529f1776006f235"
-os = "macos"
-
-    [[Exodus.download]]
-    sha256 = "f36d93345582ece3fbbd360373889e15eaf1bcb1609a47e09452a94e8580baa0"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v0.1.0+0/Exodus.v0.1.0.x86_64-apple-darwin.tar.gz"
-[[Exodus]]
-arch = "x86_64"
-git-tree-sha1 = "15893c48d3ed313b7a7d2343b6b7ba87d6ebad21"
+git-tree-sha1 = "9dda2f7ba6318fb5712faed8cfb84f60ce75ea24"
 libc = "glibc"
 os = "linux"
 
     [[Exodus.download]]
-    sha256 = "a9db6affec178aafbe21810514b37e81c02bc5c3abd9f1f169dce241b09b71c2"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v0.1.0+0/Exodus.v0.1.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "b523aba12d467ef73b897c08761d3f06c2ebe5979541321ae0813af8c790acfa"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v0.1.1+0/Exodus.v0.1.1.x86_64-linux-gnu.tar.gz"
