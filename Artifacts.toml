@@ -1,92 +1,92 @@
 [[Exodus]]
 arch = "aarch64"
-git-tree-sha1 = "454aa1056b498ff9c8227d363ddf3f1173fdc983"
+git-tree-sha1 = "a80dd849a9924a43293af9fde027eefdd9a66e39"
 os = "macos"
 
     [[Exodus.download]]
-    sha256 = "109c2d55b0210db54ae931c09bffdbb64e31fd6324dc41360656d80b494af84d"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "aff2da3f4e391ea206797b1da0a664ec66bfd5f0932b6c6f4ca72b8111be26ee"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.aarch64-apple-darwin.tar.gz"
 [[Exodus]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d4073b24c2a4042dbea7dffebcafdf1846c51118"
+git-tree-sha1 = "c7eae1cf2f524b26ab27428f7634e104bde766d2"
 libc = "glibc"
 os = "linux"
 
     [[Exodus.download]]
-    sha256 = "9f83122cc327604c82442701dd5459c456c2f765f25f31672f3d166935131700"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "48243292250605098dcbfea2a2e1a8396b46c6c89a618fd7f245e222e576c171"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.aarch64-linux-gnu-cxx03.tar.gz"
 [[Exodus]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7dce8d0b16308bd9c6dcd7cf93df8a56e8e9bbdf"
+git-tree-sha1 = "9f8016b2242863138ea080700e64c02f1fa4aa40"
 libc = "glibc"
 os = "linux"
 
     [[Exodus.download]]
-    sha256 = "70a92f5c4ff5bccffaf5008d032bfc1fe7bc101518ec7a377bd76d168c34291d"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "328ce928bdc00d3e4a76f6e23cd2144f420bba0cd8909ad40f4a787f3d813438"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.aarch64-linux-gnu-cxx11.tar.gz"
 [[Exodus]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "196087d42c64bfff703bf1a9972caa97597f981e"
+git-tree-sha1 = "7273baa30ac8e4e542d503b3a93ffd9cf9903da7"
 os = "windows"
 
     [[Exodus.download]]
-    sha256 = "79880c6ddf4924cf9cc52a1d9c57a0680d83b6f7bb0e979fd42041812cd0fad3"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "25c5d924f8270f037e6ad4fba462ca1662461f79abf4a3bf1674c1a2fa310b40"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.i686-w64-mingw32-cxx03.tar.gz"
 [[Exodus]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "31278b80af8a40d6888e5d20381e0fc094fe4320"
+git-tree-sha1 = "2b2dabeb8f9116cd0eef1c19d20b49df20e9a5a2"
 os = "windows"
 
     [[Exodus.download]]
-    sha256 = "1903688d283c4aba9b113673bc1d37ea425f16d637df9a847bddbf0137c3afeb"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b209fa595b645f6325e598e3ffbb0cd105eb21cf0734ad03bf292a716864f705"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.i686-w64-mingw32-cxx11.tar.gz"
 [[Exodus]]
 arch = "x86_64"
-git-tree-sha1 = "21cf8e25ed9bfa1031d9f4eed57a2ab7b4ff1493"
+git-tree-sha1 = "d138f80881beaa9d152ac50963d802ae7e659fda"
 os = "macos"
 
     [[Exodus.download]]
-    sha256 = "7f9410c9eb96ccd797c63c771731fe46dcbe3228426e76936c24a996f802bc3c"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "7fcb2537028de1c8b434acbc98378144c15f11418ec449cdcc484305cd3f1166"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.x86_64-apple-darwin.tar.gz"
 [[Exodus]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d09ca3a9fd598a9f0a575257113d6a5553f9dff0"
+git-tree-sha1 = "7f9fd8ede8d639cc53e60d9db2698e03bb86e7a3"
 libc = "glibc"
 os = "linux"
 
     [[Exodus.download]]
-    sha256 = "ed591a12797fd9ff57350553e06ae9e84f252f0de5d90c69dcaf43df261a5a22"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "946222be44645786cf88ef441f90ac0c5fb621b78dc45b1972703fb18d75a889"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.x86_64-linux-gnu-cxx03.tar.gz"
 [[Exodus]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bc5df6750d5ee879a8e8c27d2f5de9a134d282bb"
+git-tree-sha1 = "03345b4ac567ff13961daf11b2b8e726e8148c48"
 libc = "glibc"
 os = "linux"
 
     [[Exodus.download]]
-    sha256 = "01a7be02a15427bd35886a61e58dead6d5532b85fe5ca1f8a07d303cec1a65d5"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "703265b46066923299ac7de3990eee91997a2fb860fac1d321abc94760a08333"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.x86_64-linux-gnu-cxx11.tar.gz"
 [[Exodus]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "420676ff3c7ad9c83816ca8bbe6b0197ead343e6"
+git-tree-sha1 = "eb5a60cc77da60e8b8904e19bc07fc8853e3dc5d"
 os = "windows"
 
     [[Exodus.download]]
-    sha256 = "c7aad464557f784503d07f4ed687782b503bb95d993a19a40fd73bd7c477bfce"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "395d08d3a6f7d63c6f3c35b9a4e2b068119424d19a43467cf5b46916634e3039"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.x86_64-w64-mingw32-cxx03.tar.gz"
 [[Exodus]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "266b0d55d4e817051f874ac12519d224b2a5ef84"
+git-tree-sha1 = "65cf0ef99819a25316042d2f0ef5860c7d0fa359"
 os = "windows"
 
     [[Exodus.download]]
-    sha256 = "c3a4c7d139ac462bd3c6d42832ce28ec9217cd376151825a4f72bbdc12239e8b"
-    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.0+0/Exodus.v8.19.0.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "a9e588947d1cbdc45bb622046a2365953889a178b19a9017b3ff9130e2b96026"
+    url = "https://github.com/JuliaBinaryWrappers/Exodus_jll.jl/releases/download/Exodus-v8.19.1+0/Exodus.v8.19.1.x86_64-w64-mingw32-cxx11.tar.gz"
